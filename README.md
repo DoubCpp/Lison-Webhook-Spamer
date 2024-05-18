@@ -13,6 +13,16 @@ lunch install.bat or
 ```
 
     
+## Run 
+
+
+
+```bash
+  py lison.py
+```
+
+
+
 ## Authors
 
 - [Doub](https://github.com/Douuub)

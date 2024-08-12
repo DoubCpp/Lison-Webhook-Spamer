@@ -7,9 +7,7 @@ Simple Discord Webhook spammer
 lunch install.bat or
 
 ```bash
-  pip install dhooks
-  pip install Pillow
-  pip install requests
+pip install -r requirements.txt
 ```
 
     
